@@ -3,3 +3,5 @@
 This is the test adddin.
 
 Testing is fun.
+
+Nikita
